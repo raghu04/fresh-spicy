@@ -1,5 +1,5 @@
 ---
-title: Home test
+title: Home
 isHome: true
 layout: index
 
