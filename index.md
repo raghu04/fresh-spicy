@@ -4,4 +4,4 @@ isHome: true
 layout: index
 
 ---
-# Real, beautiful plants right to your door test
+# Real, beautiful plants right to your door
