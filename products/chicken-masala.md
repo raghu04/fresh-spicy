@@ -2,15 +2,15 @@
 layout: product
 id: ''
 title: Chicken Masala
-description: ''
-price: ''
+description: Clean | Fresh | Pure
+price: "30"
 images:
   default:
     thumbnail:
       optimized: ''
       fallback: ''
     original:
-      optimized: ''
+      optimized: "/images/product1.png"
       fallback: ''
   featured:
     thumbnail:
@@ -19,8 +19,8 @@ images:
     original:
       optimized: "/images/product1.png"
       fallback: ''
-category: ''
-featured: false
+category: summer
+featured: true
 section: ''
 published: false
 
