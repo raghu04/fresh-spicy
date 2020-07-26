@@ -27,6 +27,10 @@ fields:
     required: true
 pages:
 - category/bigplants.md
+- category/bigplants.md
+- category/cactuses.md
 - category/cactuses.md
 - category/europe.md
+- category/europe.md
+- category/summer.md
 - category/summer.md
