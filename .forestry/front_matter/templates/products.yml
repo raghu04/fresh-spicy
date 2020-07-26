@@ -99,6 +99,7 @@ fields:
     required: true
 pages:
 - products/chicken-masala.md
+- products/chicken-masala.md
 - products/plant1.md
 - products/plant1.md
 - products/plant2.md

@@ -7,14 +7,14 @@ price: "30"
 images:
   default:
     thumbnail:
-      optimized: ''
+      optimized: "/images/product1.png"
       fallback: ''
     original:
       optimized: "/images/product1.png"
       fallback: ''
   featured:
     thumbnail:
-      optimized: ''
+      optimized: "/images/product1.png"
       fallback: ''
     original:
       optimized: "/images/product1.png"
