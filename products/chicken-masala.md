@@ -14,8 +14,8 @@ images:
       fallback: "/images/product-chiken-lg.png"
   featured:
     thumbnail:
-      optimized: "/images/product-chiken.png"
-      fallback: "/images/product-chiken.png"
+      optimized: "/images/product1_400x400.png"
+      fallback: "/images/product1_400x400.png"
     original:
       optimized: "/images/product-chiken-lg.png"
       fallback: "/images/product-chiken-lg.png"
