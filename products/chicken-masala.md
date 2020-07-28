@@ -7,18 +7,18 @@ price: "30"
 images:
   default:
     thumbnail:
-      optimized: "/images/product1.png"
-      fallback: ''
+      optimized: "/images/product-chiken.png"
+      fallback: "/images/product-chiken.png"
     original:
-      optimized: "/images/product1.png"
-      fallback: ''
+      optimized: "/images/product-chiken-lg.png"
+      fallback: "/images/product-chiken-lg.png"
   featured:
     thumbnail:
-      optimized: "/images/product1.png"
-      fallback: ''
+      optimized: "/images/product-chiken.png"
+      fallback: "/images/product-chiken.png"
     original:
-      optimized: "/images/product1.png"
-      fallback: ''
+      optimized: "/images/product-chiken-lg.png"
+      fallback: "/images/product-chiken-lg.png"
 category: summer
 featured: true
 section: ''
