@@ -1,8 +1,7 @@
 ---
-slug: veg
+slug: non-veg
 title: Non Vegetarian
 section: Store
 layout: category
-published: false
 
 ---
