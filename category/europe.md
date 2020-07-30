@@ -1,10 +1,10 @@
 ---
-slug: veg
-title: Vegetarian
+slug: non-veg
+title: Non Vegetarian
 section: Store
 layout: category
 menu:
   categories:
-    weight: 2
+    weight: 5
 
 ---
