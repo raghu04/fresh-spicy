@@ -9,8 +9,8 @@ images:
       optimized: "/images/ggp.png"
       fallback: "/images/ggp.png"
     original:
-      optimized: "/images/plant1-lg.webp"
-      fallback: "/images/plant1-lg.jpg"
+      optimized: "/images/ggp.png"
+      fallback: "/images/ggp.png"
   featured:
     thumbnail:
       optimized: "/images/whatsapp-image-2020-07-29-at-11-18-38-2.jpeg"
