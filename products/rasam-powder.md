@@ -1,9 +1,8 @@
 ---
 id: "5"
 title: Rasam Powder
-description: Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
-  volutpat massa dolor id purus.
-price: '220.00'
+description: ''
+price: ''
 images:
   default:
     thumbnail:
