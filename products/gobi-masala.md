@@ -1,27 +1,28 @@
 ---
 id: "5"
-title: Garam Masala
+title: Gobi Masala
 description: ''
 price: ''
 images:
   default:
     thumbnail:
-      optimized: "/images/garam.png"
-      fallback: "/images/garam.png"
+      optimized: "/images/turmeric.png"
+      fallback: "/images/turmeric.png"
     original:
-      optimized: "/images/garam.png"
-      fallback: "/images/garam.png"
+      optimized: "/images/turmeric.png"
+      fallback: "/images/turmeric.png"
   featured:
     thumbnail:
-      optimized: "/images/whatsapp-image-2020-07-30-at-22-33-59.jpeg"
-      fallback: "/images/whatsapp-image-2020-07-30-at-22-33-59.jpeg"
+      optimized: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
+      fallback: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
     original:
-      optimized: "/images/whatsapp-image-2020-07-30-at-22-33-59.jpeg"
-      fallback: "/images/whatsapp-image-2020-07-30-at-22-33-59.jpeg"
+      optimized: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
+      fallback: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
 category: ''
 featured: true
 section: Store
 layout: product
+published: false
 
 ---
 # Vestibulum Spice
