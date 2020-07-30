@@ -6,11 +6,11 @@ price: ''
 images:
   default:
     thumbnail:
-      optimized: "/images/plant4.webp"
-      fallback: "/images/plant4.jpg"
+      optimized: "/images/chile.png"
+      fallback: "/images/chile.png"
     original:
-      optimized: "/images/plant4-lg.webp"
-      fallback: "/images/plant4-lg.jpg"
+      optimized: "/images/chile.png"
+      fallback: "/images/chile.png"
   featured:
     thumbnail:
       optimized: "/images/whatsapp-image-2020-07-29-at-11-18-36.jpeg"
