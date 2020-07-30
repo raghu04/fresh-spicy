@@ -1,6 +1,6 @@
 ---
-slug: non-veg
-title: Non Vegetarian
+slug: masala
+title: Masala
 section: Store
 layout: category
 
