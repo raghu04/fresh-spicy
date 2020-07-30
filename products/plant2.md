@@ -1,8 +1,8 @@
 ---
 id: "2"
 title: Sambar Powder
-description: Suspendisse efficitur eget erat sit amet efficitur.
-price: '99.00'
+description: ''
+price: ''
 images:
   default:
     thumbnail:
