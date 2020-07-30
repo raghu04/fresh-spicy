@@ -6,11 +6,11 @@ price: ''
 images:
   default:
     thumbnail:
-      optimized: "/images/plant5.webp"
-      fallback: "/images/plant5.jpg"
+      optimized: "/images/rasam.png"
+      fallback: "/images/rasam.png"
     original:
-      optimized: "/images/plant5-lg.webp"
-      fallback: "/images/plant5-lg.jpg"
+      optimized: "/images/rasam.png"
+      fallback: "/images/rasam.png"
   featured:
     thumbnail:
       optimized: "/images/whatsapp-image-2020-07-29-at-11-18-35.jpeg"
