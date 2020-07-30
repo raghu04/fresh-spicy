@@ -1,8 +1,8 @@
 ---
 id: "3"
 title: Daniya Powder
-description: Nulla non pretium metus, vitae finibus lectus.
-price: '150.00'
+description: ''
+price: ''
 images:
   default:
     thumbnail:
