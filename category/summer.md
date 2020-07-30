@@ -1,9 +1,7 @@
 ---
-slug: summer
-title: Summer plants
+slug: ve
+title: Veg
 section: Store
-menus:
-  categories:
-    weight: 2
 layout: category
+
 ---

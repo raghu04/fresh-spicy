@@ -1,9 +1,7 @@
 ---
 slug: cactuses
-title: Cactuses
+title: Non Veg
 section: Store
-menus:
-  categories:
-    weight: 6
 layout: category
+
 ---
