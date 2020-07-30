@@ -17,8 +17,8 @@ images:
       optimized: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
       fallback: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
     original:
-      optimized: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
-      fallback: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
+      optimized: "/images/plant5-featured-lg.webp"
+      fallback: "/images/plant5-featured-lg.jpg"
 category: bigplants
 featured: true
 section: Store
