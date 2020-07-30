@@ -1,9 +1,8 @@
 ---
 id: "1"
 title: Ginger Garlic Paste
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit
-  velit lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget tincidunt.
-price: '49.40'
+description: ''
+price: ''
 images:
   default:
     thumbnail:
