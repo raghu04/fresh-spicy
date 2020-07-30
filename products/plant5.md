@@ -1,6 +1,6 @@
 ---
 id: "5"
-title: Vestibulum eget
+title: Turmeric Powder
 description: Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
 price: '220.00'
@@ -14,11 +14,11 @@ images:
       fallback: "/images/plant5-lg.jpg"
   featured:
     thumbnail:
-      optimized: "/images/plant5-featured.webp"
-      fallback: "/images/plant5-featured.jpg"
+      optimized: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
+      fallback: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
     original:
-      optimized: "/images/plant5-featured-lg.webp"
-      fallback: "/images/plant5-featured-lg.jpg"
+      optimized: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
+      fallback: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
 category: bigplants
 featured: true
 section: Store
