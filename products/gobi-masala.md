@@ -6,18 +6,18 @@ price: ''
 images:
   default:
     thumbnail:
-      optimized: "/images/turmeric.png"
-      fallback: "/images/turmeric.png"
+      optimized: "/images/gobi.png"
+      fallback: "/images/gobi.png"
     original:
-      optimized: "/images/turmeric.png"
-      fallback: "/images/turmeric.png"
+      optimized: "/images/gobi.png"
+      fallback: "/images/gobi.png"
   featured:
     thumbnail:
-      optimized: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
-      fallback: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
+      optimized: "/images/whatsapp-image-2020-07-30-at-22-33-59-1.jpeg"
+      fallback: "/images/whatsapp-image-2020-07-30-at-22-33-59-1.jpeg"
     original:
-      optimized: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
-      fallback: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
+      optimized: "/images/whatsapp-image-2020-07-30-at-22-33-59-1.jpeg"
+      fallback: "/images/whatsapp-image-2020-07-30-at-22-33-59-1.jpeg"
 category: ''
 featured: true
 section: Store
