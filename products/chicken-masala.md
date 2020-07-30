@@ -17,9 +17,9 @@ images:
       optimized: "/images/whatsapp-image-2020-07-28-at-20-56-03.jpeg"
       fallback: "/images/whatsapp-image-2020-07-28-at-20-56-03.jpeg"
     original:
-      optimized: "/images/whatsapp-image-2020-07-28-at-20-56-03.jpeg"
-      fallback: "/images/whatsapp-image-2020-07-28-at-20-56-03.jpeg"
-category: summer
+      optimized: "/images/product-chiken-lg.png"
+      fallback: "/images/product-chiken-lg.png"
+category: ''
 featured: true
 section: ''
 
