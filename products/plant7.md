@@ -1,8 +1,8 @@
 ---
 id: "7"
 title: Tamarind Paste
-description: Fusce sed tortor id diam rhoncus accumsan.
-price: '18.90'
+description: ''
+price: ''
 images:
   default:
     thumbnail:
