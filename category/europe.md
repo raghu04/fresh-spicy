@@ -1,6 +1,6 @@
 ---
-slug: non-veg
-title: Non Vegetarian
+slug: paste
+title: Paste
 section: Store
 layout: category
 menu:
