@@ -6,11 +6,11 @@ price: ''
 images:
   default:
     thumbnail:
-      optimized: "/images/plant9.webp"
-      fallback: "/images/plant9.jpg"
+      optimized: "/images/pliyogare.png"
+      fallback: "/images/pliyogare.png"
     original:
-      optimized: "/images/plant9-lg.webp"
-      fallback: "/images/plant9-lg.jpg"
+      optimized: "/images/pliyogare.png"
+      fallback: "/images/pliyogare.png"
   featured:
     thumbnail:
       optimized: "/images/whatsapp-image-2020-07-29-at-11-18-37-1.jpeg"
