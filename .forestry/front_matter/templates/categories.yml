@@ -26,12 +26,8 @@ fields:
   config:
     required: true
 pages:
-- category/bigplants.md
-- category/bigplants.md
-- category/cactuses.md
 - category/cactuses.md
 - category/europe.md
-- category/non-vegetarian.md
 - category/non-vegetarian.md
 - category/powder.md
 - category/summer.md
