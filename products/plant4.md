@@ -1,8 +1,8 @@
 ---
 id: "4"
 title: Chilli Powder
-description: Maecenas pretium blandit ex id lobortis.
-price: "24.99"
+description: ''
+price: ''
 images:
   default:
     thumbnail:
