@@ -1,8 +1,8 @@
 ---
 id: "9"
 title: Puliyogare Powder
-description: Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.
-price: '400.00'
+description: ''
+price: ''
 images:
   default:
     thumbnail:
