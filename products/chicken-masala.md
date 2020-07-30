@@ -2,8 +2,8 @@
 layout: product
 id: ''
 title: Chicken Masala
-description: Clean | Fresh | Pure
-price: "30"
+description: ''
+price: ''
 images:
   default:
     thumbnail:
