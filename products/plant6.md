@@ -1,8 +1,8 @@
 ---
 id: "6"
 title: Fish Masala
-description: Cras molestie faucibus ipsum ut vulputate.
-price: '100.00'
+description: ''
+price: ''
 images:
   default:
     thumbnail:
