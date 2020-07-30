@@ -1,8 +1,8 @@
 ---
 id: "8"
 title: Kabab Powder
-description: In cursus sagittis eros non congue.
-price: '50.00'
+description: ''
+price: ''
 images:
   default:
     thumbnail:
