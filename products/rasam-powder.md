@@ -14,16 +14,15 @@ images:
       fallback: "/images/plant5-lg.jpg"
   featured:
     thumbnail:
-      optimized: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
-      fallback: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
+      optimized: "/images/whatsapp-image-2020-07-29-at-11-18-35.jpeg"
+      fallback: "/images/whatsapp-image-2020-07-29-at-11-18-35.jpeg"
     original:
-      optimized: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
-      fallback: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
+      optimized: "/images/whatsapp-image-2020-07-29-at-11-18-35.jpeg"
+      fallback: "/images/whatsapp-image-2020-07-29-at-11-18-35.jpeg"
 category: bigplants
 featured: true
 section: Store
 layout: product
-published: false
 
 ---
 # Vestibulum Spice
