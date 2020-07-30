@@ -1,23 +1,23 @@
 ---
 id: "5"
-title: Turmeric Powder-(copy)
+title: Egg Masala
 description: ''
 price: ''
 images:
   default:
     thumbnail:
-      optimized: "/images/turmeric.png"
-      fallback: "/images/turmeric.png"
+      optimized: "/images/egg.png"
+      fallback: "/images/egg.png"
     original:
-      optimized: "/images/turmeric.png"
-      fallback: "/images/turmeric.png"
+      optimized: "/images/egg.png"
+      fallback: "/images/egg.png"
   featured:
     thumbnail:
-      optimized: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
-      fallback: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
+      optimized: "/images/whatsapp-image-2020-07-30-at-22-33-58.jpeg"
+      fallback: "/images/whatsapp-image-2020-07-30-at-22-33-58.jpeg"
     original:
-      optimized: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
-      fallback: "/images/whatsapp-image-2020-07-29-at-11-18-39-1.jpeg"
+      optimized: "/images/whatsapp-image-2020-07-30-at-22-33-58.jpeg"
+      fallback: "/images/whatsapp-image-2020-07-30-at-22-33-58.jpeg"
 category: ''
 featured: true
 section: Store
