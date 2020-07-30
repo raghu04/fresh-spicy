@@ -1,6 +1,6 @@
 ---
 slug: power
-title: Paste
+title: Powder
 section: Store
 layout: category
 
