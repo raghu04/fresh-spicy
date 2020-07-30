@@ -6,11 +6,11 @@ price: ''
 images:
   default:
     thumbnail:
-      optimized: "/images/plant2.webp"
-      fallback: "/images/plant2.jpg"
+      optimized: "/images/sambar.png"
+      fallback: "/images/sambar.png"
     original:
-      optimized: "/images/plant2-lg.webp"
-      fallback: "/images/plant2-lg.jpg"
+      optimized: "/images/sambar.png"
+      fallback: "/images/sambar.png"
   featured:
     thumbnail:
       optimized: "/images/whatsapp-image-2020-07-29-at-11-18-38-1.jpeg"
