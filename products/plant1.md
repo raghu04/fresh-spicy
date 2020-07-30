@@ -6,8 +6,8 @@ price: ''
 images:
   default:
     thumbnail:
-      optimized: "/images/plant1.webp"
-      fallback: "/images/plant1.jpg"
+      optimized: "/images/ggp.png"
+      fallback: "/images/ggp.png"
     original:
       optimized: "/images/plant1-lg.webp"
       fallback: "/images/plant1-lg.jpg"
