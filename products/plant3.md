@@ -6,11 +6,11 @@ price: ''
 images:
   default:
     thumbnail:
-      optimized: "/images/plant3.webp"
-      fallback: "/images/plant3.jpg"
+      optimized: "/images/daniya.png"
+      fallback: "/images/daniya.png"
     original:
-      optimized: "/images/plant3-lg.webp"
-      fallback: "/images/plant3-lg.jpg"
+      optimized: "/images/daniya.png"
+      fallback: "/images/daniya.png"
   featured:
     thumbnail:
       optimized: "/images/whatsapp-image-2020-07-29-at-11-18-36-1.jpeg"
