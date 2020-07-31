@@ -6,11 +6,11 @@ price: ''
 images:
   default:
     thumbnail:
-      optimized: "/images/plant8.webp"
-      fallback: "/images/plant8.jpg"
+      optimized: "/images/kabab.png"
+      fallback: "/images/kabab.png"
     original:
-      optimized: "/images/plant8-lg.webp"
-      fallback: "/images/plant8-lg.jpg"
+      optimized: "/images/kabab.png"
+      fallback: "/images/kabab.png"
   featured:
     thumbnail:
       optimized: "/images/whatsapp-image-2020-07-29-at-11-18-38.jpeg"
