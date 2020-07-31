@@ -18,7 +18,7 @@ images:
     original:
       optimized: "/images/whatsapp-image-2020-07-29-at-11-18-34.jpeg"
       fallback: "/images/whatsapp-image-2020-07-29-at-11-18-34.jpeg"
-category: ''
+category: masala
 featured: true
 section: Store
 layout: product
