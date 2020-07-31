@@ -462,9 +462,8 @@ models:
         label: Category
         options:
           - masala
-          - europe
-          - bigplants
-          - cactuses
+          - paste
+          - powder
       - type: boolean
         name: featured
         label: Featured

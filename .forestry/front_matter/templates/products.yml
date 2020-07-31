@@ -74,9 +74,8 @@ fields:
       type: custom
     options:
     - masala
-    - europe
-    - bigplants
-    - cactuses
+    - paste
+    - powder
 - type: boolean
   name: featured
   label: Featured
