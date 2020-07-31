@@ -461,7 +461,7 @@ models:
         name: category
         label: Category
         options:
-          - summer
+          - masala
           - europe
           - bigplants
           - cactuses
