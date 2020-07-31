@@ -19,7 +19,7 @@ images:
     original:
       optimized: "/images/product-chiken-lg.png"
       fallback: "/images/product-chiken-lg.png"
-category: summer
+category: ''
 featured: true
 section: ''
 
