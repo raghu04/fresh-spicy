@@ -27,6 +27,6 @@ fields:
     required: true
 pages:
 - category/cactuses.md
+- category/cactuses.md
 - category/europe.md
-- category/powder.md
 - category/summer.md
