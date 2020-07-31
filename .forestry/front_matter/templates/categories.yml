@@ -26,6 +26,6 @@ fields:
   config:
     required: true
 pages:
-- category/powder.md
-- category/paste.md
 - category/masala.md
+- category/paste.md
+- category/powder.md

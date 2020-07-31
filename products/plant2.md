@@ -18,7 +18,7 @@ images:
     original:
       optimized: "/images/whatsapp-image-2020-07-29-at-11-18-38-1.jpeg"
       fallback: "/images/whatsapp-image-2020-07-29-at-11-18-38-1.jpeg"
-category: ''
+category: powder
 featured: true
 section: Store
 layout: product

@@ -18,7 +18,7 @@ images:
     original:
       optimized: "/images/whatsapp-image-2020-07-29-at-11-18-38-2.jpeg"
       fallback: "/images/whatsapp-image-2020-07-29-at-11-18-38-2.jpeg"
-category: ''
+category: paste
 featured: true
 section: Store
 layout: product
