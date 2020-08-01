@@ -1,9 +1,9 @@
 {
-    "title": "A new home interior for summer",
-    "subtitle": "from $149.99",
+    "title": "Spice a dish with love and it pleases every palate",
+    "subtitle": "",
     "image": {
-        "optimized": "images/promo.webp",
-        "fallback": "images/promo.jpg"
+        "optimized": "images/promo-banner.png",
+        "fallback": "images/promo-banner.png"
     },
     "cta": {
         "text": "Discover",
